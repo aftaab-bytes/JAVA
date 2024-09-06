@@ -7,10 +7,10 @@ class vehicle {
 }
 class car extends vehicle{
     String brand = "BMW";
-    int sound()
-    {
-
-    }
+    // int sound()// overriding error
+    // {
+    //     System.out.println("This is the sound of vehicle...");
+    // }
 }
 class bike extends vehicle{
     String brand = "YAMAHA";
