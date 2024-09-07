@@ -1,5 +1,5 @@
 import java.util.HashSet;
-public class trial {
+class trial {
     public static void main(String[] args)
     {
         HashSet<String> obj = new HashSet<String>();
